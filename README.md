@@ -15,3 +15,4 @@ Sentiment Analysis using audio of a person to predict mood in real time deployed
 3) Enter any text when prompted Ready
 4) After this recording will start and Predictions will appear shortly
 
+The checkpoint-0.910.h5 file is uploaded to the drive link where we made our Video Submission and Presentation. That is the saved model(trained by us) which needs to be used for inference.
